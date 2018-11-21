@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>266012851033-t9thdlesmffumdfvpl351s5ehjpaqtui.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.266012851033-t9thdlesmffumdfvpl351s5ehjpaqtui</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBuzuBAAv7njwn1jbp603mCSb5s6oKtWeE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>266012851033</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.JustinLu.HealthFood</string>
+	<key>PROJECT_ID</key>
+	<string>ihealth-1c818</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ihealth-1c818.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:266012851033:ios:1f657a288e7921c4</string>
+	<key>DATABASE_URL</key>
+	<string>https://ihealth-1c818.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-2042437931802449~5301588172</string>
+</dict>
+</plist>

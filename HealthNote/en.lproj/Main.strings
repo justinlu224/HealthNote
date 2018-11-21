@@ -1,0 +1,141 @@
+
+/* Class = "UIBarButtonItem"; title = "評估方法"; ObjectID = "4jN-c8-rlZ"; */
+"4jN-c8-rlZ.title" = "評估方法";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "50W-gK-cR6"; */
+"50W-gK-cR6.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "牙齒保健"; ObjectID = "57G-20-Kjy"; */
+"57G-20-Kjy.normalTitle" = "牙齒保健";
+
+/* Class = "UINavigationItem"; title = "iHealth"; ObjectID = "6uL-pZ-JQV"; */
+"6uL-pZ-JQV.title" = "iHealth";
+
+/* Class = "UIButton"; normalTitle = "我的筆記"; ObjectID = "7rT-mF-Dog"; */
+"7rT-mF-Dog.normalTitle" = "我的筆記";
+
+/* Class = "UIButton"; normalTitle = "抗疲勞"; ObjectID = "9JR-De-adn"; */
+"9JR-De-adn.normalTitle" = "抗疲勞";
+
+/* Class = "UITableViewSection"; headerTitle = "保健功效相關成分"; ObjectID = "Dfx-qn-LRp"; */
+"Dfx-qn-LRp.headerTitle" = "保健功效相關成分";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "E7Z-64-9fp"; */
+"E7Z-64-9fp.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "GBA-Iy-4Ix"; */
+"GBA-Iy-4Ix.text" = "Title";
+
+/* Class = "UINavigationItem"; title = "評估方法"; ObjectID = "GlI-0a-3IV"; */
+"GlI-0a-3IV.title" = "評估方法";
+
+/* Class = "UIButton"; normalTitle = "促進鐵吸收"; ObjectID = "Han-Xv-9a0"; */
+"Han-Xv-9a0.normalTitle" = "促進鐵吸收";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Huc-h1-CrW"; */
+"Huc-h1-CrW.text" = "Title";
+
+/* Class = "UITableViewSection"; headerTitle = "中文品名"; ObjectID = "IUe-YV-Kk9"; */
+"IUe-YV-Kk9.headerTitle" = "中文品名";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "KTo-ST-pNK"; */
+"KTo-ST-pNK.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "失效憑證"; ObjectID = "L6d-eH-rDs"; */
+"L6d-eH-rDs.normalTitle" = "失效憑證";
+
+/* Class = "UIButton"; normalTitle = "不易形成體脂肪"; ObjectID = "Lha-q1-we5"; */
+"Lha-q1-we5.normalTitle" = "不易形成體脂肪";
+
+/* Class = "UITableViewSection"; headerTitle = "紀錄"; ObjectID = "NPK-Zc-qDu"; */
+"NPK-Zc-qDu.headerTitle" = "紀錄";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Ndy-eh-xwJ"; */
+"Ndy-eh-xwJ.text" = "Subtitle";
+
+/* Class = "UITableViewSection"; headerTitle = "保健功效宣稱"; ObjectID = "P7w-Yo-Ezj"; */
+"P7w-Yo-Ezj.headerTitle" = "保健功效宣稱";
+
+/* Class = "UIButton"; normalTitle = "輔助調整過敏體質"; ObjectID = "QN9-vA-Yt8"; */
+"QN9-vA-Yt8.normalTitle" = "輔助調整過敏體質";
+
+/* Class = "UITableViewSection"; headerTitle = "許可證字號"; ObjectID = "S5c-HG-O7y"; */
+"S5c-HG-O7y.headerTitle" = "許可證字號";
+
+/* Class = "UIButton"; normalTitle = "調節血脂"; ObjectID = "SM6-Cw-3N6"; */
+"SM6-Cw-3N6.normalTitle" = "調節血脂";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "VR5-aq-M2s"; */
+"VR5-aq-M2s.text" = "Title";
+
+/* Class = "UITableViewSection"; headerTitle = "注意事項"; ObjectID = "X57-uO-l4f"; */
+"X57-uO-l4f.headerTitle" = "注意事項";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Yu3-dH-odF"; */
+"Yu3-dH-odF.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "YxD-yb-Q1A"; */
+"YxD-yb-Q1A.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "胃腸功能改善"; ObjectID = "a9Q-mC-L9B"; */
+"a9Q-mC-L9B.normalTitle" = "胃腸功能改善";
+
+/* Class = "UIButton"; normalTitle = "免疫調節"; ObjectID = "ard-0y-7JH"; */
+"ard-0y-7JH.normalTitle" = "免疫調節";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "b9z-c1-cVx"; */
+"b9z-c1-cVx.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "調節血糖"; ObjectID = "cSK-4O-uPQ"; */
+"cSK-4O-uPQ.normalTitle" = "調節血糖";
+
+/* Class = "UITableViewSection"; headerTitle = "證況"; ObjectID = "dB4-jX-gYK"; */
+"dB4-jX-gYK.headerTitle" = "證況";
+
+/* Class = "UIButton"; normalTitle = "延緩衰老"; ObjectID = "dEo-4M-Ae5"; */
+"dEo-4M-Ae5.normalTitle" = "延緩衰老";
+
+/* Class = "UITableViewSection"; headerTitle = "核可日期"; ObjectID = "eeM-oD-a8t"; */
+"eeM-oD-a8t.headerTitle" = "核可日期";
+
+/* Class = "UITableViewSection"; headerTitle = "標題"; ObjectID = "gDG-cV-gh5"; */
+"gDG-cV-gh5.headerTitle" = "標題";
+
+/* Class = "UITableViewSection"; headerTitle = "申請商"; ObjectID = "jpV-Mt-3wb"; */
+"jpV-Mt-3wb.headerTitle" = "申請商";
+
+/* Class = "UITableViewSection"; headerTitle = "警語"; ObjectID = "jrX-gu-Gm7"; */
+"jrX-gu-Gm7.headerTitle" = "警語";
+
+/* Class = "UIButton"; normalTitle = "護肝"; ObjectID = "jwW-bl-jPY"; */
+"jwW-bl-jPY.normalTitle" = "護肝";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "kqV-uX-COM"; */
+"kqV-uX-COM.title" = "Item";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "miF-D4-oJP"; */
+"miF-D4-oJP.text" = "Title";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "oqO-2q-dTZ"; */
+"oqO-2q-dTZ.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "輔助調節血壓"; ObjectID = "rqy-wu-46e"; */
+"rqy-wu-46e.normalTitle" = "輔助調節血壓";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "uDR-dn-SIS"; */
+"uDR-dn-SIS.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "vC4-Il-TKs"; */
+"vC4-Il-TKs.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "vX5-p0-kf4"; */
+"vX5-p0-kf4.text" = "Title";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "vsf-VZ-wlw"; */
+"vsf-VZ-wlw.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITableViewSection"; headerTitle = "保健功效"; ObjectID = "vzK-g4-oPS"; */
+"vzK-g4-oPS.headerTitle" = "保健功效";
+
+/* Class = "UIButton"; normalTitle = "骨質保健"; ObjectID = "vzY-bs-T2N"; */
+"vzY-bs-T2N.normalTitle" = "骨質保健";
