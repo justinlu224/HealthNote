@@ -35,7 +35,7 @@ class ProductsDetailTableViewController: UITableViewController {
         //adSize有多種選擇，可以去官方文件裡面參考，這邊用的是iphone直立使用的size
         bannerView = GADBannerView(adSize: kGADAdSizeSmartBannerPortrait)
         //下面這邊unitID，請填如你自己的，或是官方給的測試ID
-        bannerView?.adUnitID = "ca-app-pub-2042437931802449/2579631035"
+        bannerView?.adUnitID = "ca-app-pub-3940256099942544/6300978111"
         bannerView?.delegate = self
         bannerView?.rootViewController = self
         bannerView?.load(GADRequest())

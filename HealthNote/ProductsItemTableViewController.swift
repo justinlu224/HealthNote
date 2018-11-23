@@ -164,12 +164,11 @@ extension UITableViewController :GADBannerViewDelegate{
         UIView.animate(withDuration: 0.5) {
             bannerView.transform = CGAffineTransform.identity
         }
-        //如果有印出這一行，表示你成功從AdMod那邊下載到廣告
+        //如果有印出這一行，表示成功從AdMod那邊下載到廣告
         //        print("Banner loaded successfully")
     }
     
     private func adView(_ bannerView: GADBannerView, didFailToReceiveAdWithError error: GADRequestError) {
-        //這邊就是我提到會印出"no ad to show"的地方，可以用我上面提到的兩個部分去修改看看
         //                print("adView:didFailToReceiveAdWithError: \(error.localizedDescription)")
         
     }

@@ -29,7 +29,7 @@ class ViewController: UIViewController ,XMLParserDelegate{
         }
         
         let request = GADRequest()
-        bannerView.adUnitID = "ca-app-pub-2042437931802449/5573228523"
+        bannerView.adUnitID = "ca-app-pub-3940256099942544/6300978111"
         bannerView.rootViewController = self
         bannerView.load(request)
         
